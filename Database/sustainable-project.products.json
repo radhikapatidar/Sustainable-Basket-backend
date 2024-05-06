@@ -1,0 +1,270 @@
+[{
+  "_id": {
+    "$oid": "65ba11800e5c5a451cb02623"
+  },
+  "productId": "001",
+  "title": "3000 BC Therapeutics All Purpose Essential Oil",
+  "slug": "3000-bc-therapeutics-all-purpose-essential-oil",
+  "description": "3000 BC Therapeutics All Purpose Essential Oil Blend |Multi-Purpose |Fast Headache Relief| Wound Care for Everyday Cuts and Burns|No Scars |AYUSH Certified, Vegan| (10 ML)",
+  "price": 600,
+  "category": "Beauty & Health",
+  "brand": " 3000bctherapeutics",
+  "quantity": 1,
+  "sold": 0,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707455191/ew2rmozqviqg8ekhofqa.jpg",
+      "_id": {
+        "$oid": "65c5b2daeb7f75920beb8e35"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707455192/i4fzt8istunyczdma13p.jpg",
+      "_id": {
+        "$oid": "65c5b2daeb7f75920beb8e36"
+      }
+    }
+  ],
+  "color": [],
+  "tags": "special",
+  "totalrating": "0",
+  "ratings": [],
+  "createdAt": {
+    "$date": "2024-01-31T09:23:12.964Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-09T05:06:34.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba11fc0e5c5a451cb02627"
+  },
+  "productId": "002",
+  "title": "Imerbela Organic Anti Dandruff & Anti-Pollution Shampoo",
+  "slug": "imerbela-organic-anti-dandruff-and-anti-pollution-shampoo",
+  "description": "Imerbela Organic Anti-Dandruff Shampoo is carefully formulated with natural ingredients, including fenugreek seed and black seed extract, to may help address common dandruff concerns such as white flakes, itchiness, dry scalp, and hair fall. This shampoo is enriched with essential vitamins, minerals, proteins, and nutrients that contribute to hair protection against environmental pollution stress, may be reduceing the deposition of microparticles. ",
+  "price": 355,
+  "category": "Beauty & Health",
+  "brand": " Imerbela",
+  "quantity": 1,
+  "sold": 0,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707396899/rpfhiw98idpde8j8ffh9.jpg",
+      "_id": {
+        "$oid": "65c4cf261ec6b1ac445d7b4e"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707396900/zcijwmup7rctovla3g6e.jpg",
+      "_id": {
+        "$oid": "65c4cf261ec6b1ac445d7b4f"
+      }
+    }
+  ],
+  "color": [],
+  "tags": "special",
+  "totalrating": "0",
+  "ratings": [],
+  "createdAt": {
+    "$date": "2024-01-31T09:25:16.016Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-08T12:55:02.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba124a0e5c5a451cb0262b"
+  },
+  "productId": "003",
+  "title": "Copper Brown Radico 100% Organic Hair Color ( Made Safe & Eco-Cert Certified) , Copper Brown",
+  "slug": "copper-brown-radico-100percent-organic-hair-color-(-made-safe-and-eco-cert-certified)-copper-brown",
+  "description": "Radico’s herbal hair color dye embodies the culmination of exhaustive research conducted by our team of specialized scientists in the domain of hair color formulation. Housed within our cutting-edge laboratory and research facility, we have henna experts dedicated to the meticulous testing and development of diverse shades of herbal hair colors. T. ",
+  "price": 699,
+  "category": "Beauty & Health",
+  "brand": " Radico",
+  "quantity": 1,
+  "sold": 0,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707198515/ilrbuxszkjis3nimlt2k.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707198516/mdrb4azwfszftvqun6tn.png"
+    },
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707198517/h3tb0oroqaextkyx1xov.jpg"
+    }
+  ],
+  "color": [],
+  "tags": "featured",
+  "totalrating": "0",
+  "ratings": [],
+  "createdAt": {
+    "$date": "2024-01-31T09:26:34.445Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-06T05:48:38.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba129e0e5c5a451cb0262f"
+  },
+  "productId": "004",
+  "title": "3000 BC Therapeutics Aroh Ayush Certified, Handmade, Sulphate-Free Bath Bar for Dry Skin| Unveil Your Skin’s Glow",
+  "slug": "3000-bc-therapeutics-aroh-ayush-certified-handmade-sulphate-free-bath-bar-for-dry-skinor-unveil-your-skin's-glow-or-frankincense-neroli-vitamin-e-or-luxurious-fragrance",
+  "description": "Ayush Certified Excellence: Our Aroh Soap is Ayush Certified, ensuring the highest quality and authenticity.Tailored for Dry Skin: Expertly crafted skilled energy healer and aromatherapist for dry skin, delivering the perfect blend of moisture and purification. ",
+  "price": 155,
+  "category": "Beauty & Health",
+  "brand": " 3000bctherapeutics",
+  "quantity": 1,
+  "sold": 0,
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707198268/josdyam3ddoqpt0yazp5.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707198269/tehamdoqq0q53drphxxd.jpg"
+    }
+  ],
+  "color": [],
+  "tags": "popular",
+  "totalrating": "0",
+  "ratings": [],
+  "createdAt": {
+    "$date": "2024-01-31T09:27:58.282Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-06T05:44:30.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c0c453c4f4248abceb17d6"
+  },
+  "productId": "005",
+  "title": "Organic Ash Blonde Hair Colour Powder",
+  "slug": "organic-ash-blonde-hair-colour-powder",
+  "description": "Radico Colour Me Organic Hair Colours Has 24 Unique Shades, Pick The Best For You By Considering Your Hair Color, Skin Tone. ",
+  "price": 699,
+  "category": "Beauty & Health",
+  "brand": " Radico",
+  "quantity": 1,
+  "sold": 0,
+  "color": [],
+  "tags": "featured",
+  "totalrating": "0",
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707557703/ccd5iuzx2jnb3tzyeoy6.png",
+      "_id": {
+        "$oid": "65c7434844e636b7a0db6535"
+      }
+    }
+  ],
+  "ratings": [],
+  "createdAt": {
+    "$date": "2024-02-05T11:19:47.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T09:35:04.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c738e144e636b7a0db639d"
+  },
+  "productId": "006",
+  "title": "Organic Cotton & Naturally Dyed Earth Pink Men’sT-shirt",
+  "slug": "organic-cotton-and-naturally-dyed-earth-pink-men'st-shirt",
+  "description": "This Unisex Earth pink color tee is made of 100% Organic Cotton & Dyed from Natural Plant-based dyes. It is very comfortable for your skin, and body and comes with comfort fit. Since it’s an all-time vintage classic you could wear it for a casual outing, yoga/gym wear, or simply use it for night wear. This tee gets softer with age and washing. ",
+  "price": 999,
+  "category": "Clothing",
+  "brand": "Livbio",
+  "quantity": 1,
+  "sold": 0,
+  "color": [],
+  "tags": "popular",
+  "totalrating": "0",
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707555139/jiootlklbbv8hqbbgkdk.jpg",
+      "_id": {
+        "$oid": "65c7394944e636b7a0db63a1"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707555140/o6obifbfddv2lxletrcq.jpg",
+      "_id": {
+        "$oid": "65c7394944e636b7a0db63a2"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707555141/v1fuifsucrcaghq4slah.jpg",
+      "_id": {
+        "$oid": "65c7394944e636b7a0db63a3"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1707555144/rezuwossqf50avjzsikn.jpg",
+      "_id": {
+        "$oid": "65c7394944e636b7a0db63a4"
+      }
+    }
+  ],
+  "ratings": [],
+  "createdAt": {
+    "$date": "2024-02-10T08:50:41.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T08:52:25.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d45064b1652dc6193c503b"
+  },
+  "productId": "007",
+  "title": "Radico Colour Me Organic Dark Brown Hair Colour;",
+  "slug": "radico-colour-me-organic-dark-brown-hair-colour",
+  "description": "Radico Colour Me Organic Dark Brown Hair Colour; 100% Organic made with natural herbs, Skin Allergy Safe, No Ammonia, No Parabens & No Chemicals, Globally Certified and Tested Natural Hair Colour, (100g) ",
+  "price": 699,
+  "category": "Beauty & Health",
+  "brand": "Radico",
+  "quantity": 1,
+  "sold": 0,
+  "color": [],
+  "tags": "featured",
+  "totalrating": "0",
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1708413067/vn8qldkydevgskucwov1.jpg",
+      "_id": {
+        "$oid": "65d4508db1652dc6193c503d"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/dbmpcvrye/image/upload/v1708413068/yklefipl86bnfowpbdcd.png",
+      "_id": {
+        "$oid": "65d4508db1652dc6193c503e"
+      }
+    }
+  ],
+  "ratings": [],
+  "createdAt": {
+    "$date": "2024-02-20T07:10:28.735Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-20T07:11:09.057Z"
+  },
+  "__v": 0
+}]

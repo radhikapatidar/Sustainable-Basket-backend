@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "65afa554ad5916c02556bc45"
+  },
+  "name": "Sejal Bhawsar",
+  "email": "sejalbhawsar21@gmail.com",
+  "mobile": "7987243298",
+  "password": "$2a$10$neHxeAM6upRgZntTAKfXYeeQ7amQydhYXhez0kpE.HX4Yhy7WhEHy",
+  "role": "admin",
+  "isBlocked": false,
+  "cart": [],
+  "address": "my new address",
+  "wishlist": [
+    {
+      "$oid": "65af56d82c7926002191ed5c"
+    },
+    {
+      "$oid": "65abc351bc1f22d7e0397d81"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-01-23T11:39:00.786Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-17T06:16:02.305Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1YWZhNTU0YWQ1OTE2YzAyNTU2YmM0NSIsImlhdCI6MTcwODE1MDU2MiwiZXhwIjoxNzA4NDA5NzYyfQ.WnDyb-plmJGlY02H3Vp6KcYGvNyCBWhH_Kb69lkXwPM",
+  "passwordResetExpires": {
+    "$date": "2024-02-03T06:01:07.977Z"
+  },
+  "passwordResetToken": "cafd7530566915aa134d0ea798be0bacb547b63d6f92062ae91de3d98b32753d"
+},
+{
+  "_id": {
+    "$oid": "65b893afccb030ce68b711d6"
+  },
+  "name": "mohan",
+  "email": "monty@gmail.com",
+  "mobile": "79872438555",
+  "password": "$2a$10$Mw6WjFiUE8zJSw8RyAMF4uSxBG7mZPhw3TXFudig4Xyq/4gGXWHnK",
+  "role": "user",
+  "isBlocked": false,
+  "cart": [],
+  "wishlist": [
+    {
+      "$oid": "65ba129e0e5c5a451cb0262f"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-01-30T06:14:07.816Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T10:27:48.994Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1Yjg5M2FmY2NiMDMwY2U2OGI3MTFkNiIsImlhdCI6MTcwNjg2OTY2OCwiZXhwIjoxNzA3MTI4ODY4fQ.fLZxPHuK1hpWMJyx0hJlR9XA7w6TunQWYn1Qkfjz4II"
+},
+{
+  "_id": {
+    "$oid": "65c757182971ce71c267744f"
+  },
+  "name": "Sanskriti Soni",
+  "email": "sanskriti.beejbhandarho@gmail.com",
+  "mobile": "8745123698",
+  "password": "$2a$10$QLsGvwfVAu/iqWXm34iVa.6xsjYdFcIOK41GwV8hSlnmuJd3B0Shu",
+  "role": "user",
+  "isBlocked": false,
+  "cart": [],
+  "wishlist": [
+    {
+      "$oid": "65c738e144e636b7a0db639d"
+    },
+    {
+      "$oid": "65ba129e0e5c5a451cb0262f"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-10T10:59:36.385Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T11:07:31.775Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1Yzc1NzE4Mjk3MWNlNzFjMjY3NzQ0ZiIsImlhdCI6MTcwNzU2MzEzNCwiZXhwIjoxNzA3ODIyMzM0fQ.WWzikKoDuyrx_4U3liJX99Ca8AgKLHVCLh3o9074Iyc"
+},
+{
+  "_id": {
+    "$oid": "65d05a34e365195fed28b475"
+  },
+  "name": "Yash Bhawsar",
+  "email": "yash21@gmail.com",
+  "mobile": "8103354894",
+  "password": "$2a$10$.0WxprQJKGx5u.HNNG5SIulpO7kgUU3Fhv0KVtQmZ9pEfORdY7Oti",
+  "role": "user",
+  "isBlocked": false,
+  "cart": [],
+  "wishlist": [],
+  "createdAt": {
+    "$date": "2024-02-17T07:03:16.412Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-17T07:04:24.660Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZDA1YTM0ZTM2NTE5NWZlZDI4YjQ3NSIsImlhdCI6MTcwODE1MzQ2NCwiZXhwIjoxNzA4NDEyNjY0fQ.rtjWja1RnL_HHVL5YvoY3lhabFNY055XtlUTSk048Vg"
+},
+{
+  "_id": {
+    "$oid": "65d44792a280d961f74e83c1"
+  },
+  "name": "Sejal Bhawsar",
+  "email": "bhawsarsejal1@gmail.com",
+  "mobile": "9876543214",
+  "password": "$2a$10$kp92r5aeW2DB96g60gRMVu2KDHX.vsj5wbIwQMy27pDQXn1edEQbO",
+  "role": "user",
+  "isBlocked": false,
+  "cart": [],
+  "address": "Khargone",
+  "wishlist": [],
+  "createdAt": {
+    "$date": "2024-02-20T06:32:50.233Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-24T05:55:53.469Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZDQ0NzkyYTI4MGQ5NjFmNzRlODNjMSIsImlhdCI6MTcwODc1NDEwOCwiZXhwIjoxNzA5MDEzMzA4fQ.E-xHmx1mFCxyjaWRv-h8SGzU8rmo5dLwcwqMyuSQoKw"
+}]

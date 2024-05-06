@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "65afaaf290ca77188a23057b"
+  },
+  "title": "my blog 1",
+  "description": "my blog description",
+  "category": "IT",
+  "numViews": 12,
+  "isLiked": true,
+  "isDisliked": false,
+  "likes": [
+    {
+      "$oid": "65afa554ad5916c02556bc45"
+    }
+  ],
+  "dislikes": [],
+  "author": "Admin",
+  "images": "https://www.shutterstock.com/image-photo/bloggingblog-concepts-ideas-white-worktable-600nw-1029506242.jpg",
+  "createdAt": {
+    "$date": "2024-01-23T12:02:58.991Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T10:47:24.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65afabc3c35d94564ffb4b72"
+  },
+  "title": "my blog 2",
+  "description": "my blog description 2",
+  "category": "ORGANIC",
+  "numViews": 1,
+  "isLiked": false,
+  "isDisliked": false,
+  "likes": [],
+  "dislikes": [],
+  "author": "Admin",
+  "images": "https://www.shutterstock.com/image-photo/bloggingblog-concepts-ideas-white-worktable-600nw-1029506242.jpg",
+  "createdAt": {
+    "$date": "2024-01-23T12:06:27.542Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-06T13:19:30.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65afabdec35d94564ffb4b76"
+  },
+  "title": "my blog 3",
+  "description": "my blog description 3",
+  "category": "Food",
+  "numViews": 1,
+  "isLiked": false,
+  "isDisliked": false,
+  "likes": [],
+  "dislikes": [],
+  "author": "Admin",
+  "images": "https://www.shutterstock.com/image-photo/bloggingblog-concepts-ideas-white-worktable-600nw-1029506242.jpg",
+  "createdAt": {
+    "$date": "2024-01-23T12:06:54.489Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T12:00:16.615Z"
+  },
+  "__v": 0
+}]

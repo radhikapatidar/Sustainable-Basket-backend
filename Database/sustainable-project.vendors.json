@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "65cf35d8e7d04092735b25a7"
+  },
+  "firstName": "Mr. Sanjeev",
+  "lastName": "Bhatt",
+  "email": "sales1@radico.com",
+  "mobile": "+91 9821299870",
+  "password": "123123",
+  "shopName": "Organic For Me",
+  "brandName": "Radico",
+  "companyName": "Radico",
+  "createdAt": {
+    "$date": "2024-02-16T10:15:52.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-16T10:15:52.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d30b3e3f9ac58d0af13aea"
+  },
+  "firstName": "Sejal",
+  "lastName": "Bhawsar",
+  "email": "bhawsarsejal11@gmail.com",
+  "mobile": "79872438555",
+  "password": "123123",
+  "shopName": "shop99",
+  "createdAt": {
+    "$date": "2024-02-19T08:03:10.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T08:03:10.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d30b863f9ac58d0af13afd"
+  },
+  "firstName": "Sejal",
+  "lastName": "Bhawsar",
+  "email": "sejalbhawsar1@gmail.com",
+  "mobile": "79872438555",
+  "password": "123123",
+  "shopName": "Organic Products ",
+  "createdAt": {
+    "$date": "2024-02-19T08:04:22.674Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T08:04:22.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d5ef535a896c2485847eb7"
+  },
+  "firstName": "Sejal",
+  "lastName": "Bhawsar",
+  "email": "sales12@radico.com",
+  "mobile": "+91 7987243298",
+  "password": "123123",
+  "shopName": "Shop 99",
+  "brandName": "Radico",
+  "companyName": "Radico",
+  "role": "vendor",
+  "createdAt": {
+    "$date": "2024-02-21T12:40:51.072Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-21T12:40:51.072Z"
+  },
+  "__v": 0
+}]

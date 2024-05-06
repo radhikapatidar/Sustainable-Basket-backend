@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "65d9aa17e67b01f4851f03e0"
+  },
+  "vendor": {
+    "$oid": "65d5ef535a896c2485847eb7"
+  },
+  "attributeName": "size",
+  "attributeOptions": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "createdAt": {
+    "$date": "2024-02-24T08:34:31.311Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-24T08:34:31.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d9ac47e67b01f4851f042f"
+  },
+  "vendor": {
+    "$oid": "65d5ef535a896c2485847eb7"
+  },
+  "attributeName": "color",
+  "attributeOptions": [
+    "Black",
+    "White",
+    "Pink",
+    "Red"
+  ],
+  "createdAt": {
+    "$date": "2024-02-24T08:43:51.613Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-24T08:43:51.613Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "65cf33a7abbabab60cbb018a"
+  },
+  "firstName": "Sejal",
+  "lastName": "Bhawsar",
+  "email": "sejalbhawsar21@gmail.com",
+  "password": "123123",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-02-16T10:06:31.542Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-16T10:06:31.542Z"
+  },
+  "__v": 0
+}]
